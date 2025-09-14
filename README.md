@@ -10,7 +10,7 @@ cp -r ~/waybarEverforest/waybar ~/.config/waybar
 ```
 To run blueman-applet and nm-applet:
 ```bash
-nm-applet && blueman-applet
+nm-applet & blueman-applet
 ```
 ### Screenshots:
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/feb077ed-ed71-42f0-9a1a-f1c24854693d" />
