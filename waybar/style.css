@@ -1,0 +1,11 @@
+@import "style/color.css";
+@import "style/background.css";
+@import "style/border.css";
+@import "style/padding.css";
+@import "style/shadow.css";
+
+* {
+  font-family: "JetBrainsMono Nerd Font Bold";
+  font-weight: 600;
+  font-size: 20px;
+}

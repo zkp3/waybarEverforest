@@ -1,0 +1,18 @@
+{
+  "modules-left": [
+    "hyprland/workspaces",
+    "hyprland/window"
+  ],
+  "modules-center": [
+    "disk",
+    "cpu",
+    "memory",
+    "temperature"
+  ],
+  "modules-right": [
+    "pulseaudio",
+    "hyprland/language",
+    "clock",
+    "tray"
+  ],
+},

@@ -1,0 +1,25 @@
+#workspaces,
+#window,
+#cpu,
+#disk,
+#temperature,
+#memory,
+#pulseaudio,
+#language,
+#clock,
+#tray,
+#workspaces button,
+tooltip {
+  color: #dbbc7f;
+}
+
+#workspaces button.urgent {
+  color: #e67e80;
+}
+
+#clock:hover,
+#pulseaudio:hover,
+#workspaces button:hover,
+#workspaces button.active {
+  color: #7fbbb3;
+}
