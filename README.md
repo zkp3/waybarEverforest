@@ -1,0 +1,2 @@
+# waybarEverforest
+waybar everforest theme
