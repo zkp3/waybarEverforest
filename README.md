@@ -1,5 +1,5 @@
 # waybarEverforest
-waybar everforest theme
+waybar everforest theme FOR HYPRLAND!
 ## Installation(Arch):
 ```bash
 sudo pacman -Syu
