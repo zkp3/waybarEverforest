@@ -3,7 +3,7 @@ waybar everforest theme FOR HYPRLAND!
 ## Installation(Arch):
 ```bash
 sudo pacman -Syu
-sudo pacman -S git odf-font-awesome ttf-jetbrains-mono noto-fonts-emoji ttf-jetbrains-mono-nerd network-manager-applet blueman
+sudo pacman -S git otf-font-awesome ttf-jetbrains-mono noto-fonts-emoji ttf-jetbrains-mono-nerd network-manager-applet blueman
 cd
 git clone https://github.com/zkp3/waybarEverforest.git
 cp -r ~/waybarEverforest/waybar ~/.config/waybar
